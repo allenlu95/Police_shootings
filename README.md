@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projectstest
 This is my first Data analysis project done in python.
 For the project I used two data sets: https://github.com/fivethirtyeight/data/tree/master/police-killings and https://www.census.gov/popest/data/state/asrh/2015/SCPRC-EST2015-18+POP-RES.html
