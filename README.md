@@ -1,7 +1,6 @@
 # Projectstest
 This is my first Data analysis project done in python.
-For the project I used two data sets: https://github.com/fivethirtyeight/data/tree/master/police-killings and  http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmkl
-All full analysis can be found in the police killing analysis.docx found in the files above
+For the project I used two data sets: https://github.com/fivethirtyeight/data/tree/master/police-killings,  http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmkl
 
 #An analysis on Police Killings
 The names of Trayvon Martin, Michael Brown, and Jordan Davis may sound familiar to you. All three suffered similar fates at the hands of police, and all three have become martyrs for the fight against police corruption and social inequality.   
