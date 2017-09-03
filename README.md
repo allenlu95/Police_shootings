@@ -2,11 +2,13 @@
 This is my first Data analysis project done in python.
 For the project I used two data sets: https://github.com/fivethirtyeight/data/tree/master/police-killings,  http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmkl
 
-#An analysis on Police Killings
+An analysis on Police Killings
+
 The names of Trayvon Martin, Michael Brown, and Jordan Davis may sound familiar to you. All three suffered similar fates at the hands of police, and all three have become martyrs for the fight against police corruption and social inequality.   
 While emotional damage and social injustice can never be truly quantified, police killings can. In the following analysis we explore 538’s 2015 Police killing data set to explain arguments and observe trends. 
 
-#Two types of arguments
+Two types of arguments
+
 Aren’t there more white victims from police shootings than there are black? Why are we focusing so much attention on black victims? I mean if we simply plot the numbers it seems pretty clear. There is almost twice as much white victims than black victims!
 
 ![alt tag](https://github.com/allenlu95/Police_shootings/blob/master/download%20(2).png)
