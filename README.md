@@ -1,4 +1,4 @@
-# Projectstest
+# Police Shooting Project
 This is my first Data analysis project done in python.
 For the project I used two data sets: https://github.com/fivethirtyeight/data/tree/master/police-killings,  http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmkl
 
